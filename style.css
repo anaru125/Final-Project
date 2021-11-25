@@ -1,0 +1,35 @@
+body {
+  color: gray;
+  padding-top: 50px;
+}
+.weather-app {
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 30px auto;
+  max-width: 600px;
+  border-radius: 20px;
+}
+h1 {
+  text-align: center;
+  width: 100%;
+  margin: 0%;
+}
+
+h2 {
+  text-align: left;
+  top: 20px;
+}
+
+.temp {
+  font-size: 30px;
+  text-align: right;
+  position: relative;
+  top: -35px;
+  left: -100px;
+}
+
+.time {
+  text-align: left;
+  position: relative;
+  top: -50px;
+}
